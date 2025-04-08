@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import com.example.assesment1.ui.screen.SetupNavGraph
+import com.example.assesment1.ui.navigation.SetupNavGraph
 import com.example.assesment1.ui.theme.Assesment1Theme
 
  class MainActivity : ComponentActivity() {
