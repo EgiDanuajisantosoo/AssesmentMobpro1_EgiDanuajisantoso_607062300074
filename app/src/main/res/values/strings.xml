@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assesment1</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi ini digunakan untuk menghitung bunga tabungan dan menghitung bunga pinjaman beserta angsuran setiap bulannya \n\nApliikasi ini dibuat untuk Assesment 1 kelas Pemograman untuk Perangkat Bergerak 1.\n\nCopyright © 2025 Egi Danuajisantoso. \nAll right reserved</string>
+    <string name="kembali">Kembali</string>
+    <string name="hitung">Hitung</string>
+    <string name="total_bunga">Total Bunga: Rp%s</string>
+    <string name="total_tabungan">Total Tabungan: Rp%s</string>
+    <string name="angsuran">Angsuran Per Bulan: Rp%s</string>
+    <string name="bunga">Bunga (%)</string>
+    <string name="jumlah_pinjam">Jumlah Pinjaman (Rp)</string>
+    <string name="bunga_tabungan">Bunga Tabungan(Flat)</string>
+    <string name="bunga_pinjaman">Bunga Pinjaman(Flat)</string>
+    <string name="nominal_tabungan">Jumlah Tabungan (Rp)</string>
+    <string name="persentase_bunga">Persentase Bunga (%)</string>
+<!--    <string name="jenis_bunga">Jenis Bunga:</string>-->
+    <string name="bulanan">Bulanan</string>
+    <string name="tahunan">Tahunan</string>
+</resources>

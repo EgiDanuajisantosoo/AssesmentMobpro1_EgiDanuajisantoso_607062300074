@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assesment1</string>
+    <string name="tentang_aplikasi">about the application</string>
+    <string name="copyright">This application is used to calculate savings interest and calculate loan interest along with monthly installments   This application is made for Assessment 1 of Programming for Mobile Devices 1.   Copyright © 2025 Egi Danuajisantoso.  All right reserved</string>
+    <string name="kembali">back</string>
+    <string name="hitung">count</string>
+    <string name="total_bunga">Total Interest: Rp%s</string>
+    <string name="total_tabungan">Total Savings: Rp%s</string>
+    <string name="angsuran">Monthly Installment: Rp%s</string>
+    <string name="bunga">Interest (%)</string>
+    <string name="jumlah_pinjam">Loan Amount (Rp)</string>
+    <string name="bunga_tabungan">Savings Interest (Flat)</string>
+    <string name="bunga_pinjaman">Loan Interest (Flat)</string>
+    <string name="nominal_tabungan">Savings Amount (Rp)</string>
+    <string name="persentase_bunga">Interest Percentage (%)</string>
+    <string name="bulanan">Monthly</string>
+    <string name="tahunan">Yearly</string>
+</resources>
