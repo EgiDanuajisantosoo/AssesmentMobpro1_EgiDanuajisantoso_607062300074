@@ -1,4 +1,4 @@
-package com.example.assesment1.ui.navigation
+package com.example.assesment1.ui.screen
 
 import android.content.res.Configuration
 import androidx.compose.foundation.layout.Arrangement
@@ -44,6 +44,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.assesment1.ui.theme.Assesment1Theme
 import java.text.NumberFormat
 import com.example.assesment1.R
+import com.example.assesment1.ui.navigation.Screen
 import java.util.Locale
 import kotlin.text.replace
 

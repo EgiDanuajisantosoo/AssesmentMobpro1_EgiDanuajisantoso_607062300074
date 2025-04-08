@@ -1,10 +1,10 @@
-package com.example.assesment1.ui.navigation
+package com.example.assesment1.ui.screen
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.assesment1.ui.screen.MainScreen
+import com.example.assesment1.ui.navigation.Screen
 
 @Composable
 fun SetupNavGraph(navController: NavHostController = rememberNavController()){

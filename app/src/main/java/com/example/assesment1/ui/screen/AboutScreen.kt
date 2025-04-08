@@ -1,4 +1,4 @@
-package com.example.assesment1.ui.navigation
+package com.example.assesment1.ui.screen
 
 import android.content.Intent
 import android.content.res.Configuration
