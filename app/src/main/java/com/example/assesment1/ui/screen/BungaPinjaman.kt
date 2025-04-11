@@ -215,7 +215,7 @@ fun BungaPinjamanContent(modifier: Modifier = Modifier) {
                 style = MaterialTheme.typography.titleLarge
             )
             Text(
-                text = context.getString(R.string.total_tabungan, totalTabunganFormatted),
+                text = context.getString(R.string.total_pinjaman, totalTabunganFormatted),
                 style = MaterialTheme.typography.titleLarge
             )
             Text(
