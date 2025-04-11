@@ -7,6 +7,7 @@
     <string name="hitung">count</string>
     <string name="total_bunga">Total Interest: Rp%s</string>
     <string name="total_tabungan">Total Savings: Rp%s</string>
+    <string name="total_pinjaman">Total Loaan: Rp%s</string>
     <string name="angsuran">Monthly Installment: Rp%s</string>
     <string name="bunga">Interest (%)</string>
     <string name="jumlah_pinjam">Loan Amount (Rp)</string>
